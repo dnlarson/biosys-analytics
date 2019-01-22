@@ -1,0 +1,121 @@
+1.
+Danielles-MacBook-Pro:files daniellelarson$ ls
+answers.txt	const.txt	scarlet.txt	usdeclar.txt
+
+2.
+Danielles-MacBook-Pro:files daniellelarson$ ls -l
+total 1160
+-rw-r--r--@ 1 daniellelarson  staff      96 Jan 21 16:47 answers.txt
+-rw-r--r--@ 1 daniellelarson  staff   45119 Jan 21 16:34 const.txt
+-rw-r--r--@ 1 daniellelarson  staff  525464 Jan 21 16:35 scarlet.txt
+-rw-r--r--@ 1 daniellelarson  staff    8685 Jan 21 16:31 usdeclar.txt
+
+3.
+Danielles-MacBook-Pro:files daniellelarson$ find . -size +50k
+./scarlet.txt
+
+4.
+Danielles-MacBook-Pro:files daniellelarson$ file answers.txt 
+answers.txt: ASCII text
+
+5.
+Danielles-MacBook-Pro:files daniellelarson$ md5 *.txt
+MD5 (const.txt) = f66a8165c621d48bac2216b2f31e8742
+MD5 (scarlet.txt) = 4958553be1483e4cbd615ce5fa73f6ab
+MD5 (usdeclar.txt) = 7f54939b30ae7b6d45d473a4c82a41b0
+
+6.
+Danielles-MacBook-Pro:files daniellelarson$ df -k
+Filesystem                        1024-blocks      Used Available Capacity  iused     ifree %iused  Mounted on
+/dev/disk1                          731372416 237720872 493395544    33% 59494216 123348886   33%   /
+devfs                                     186       186         0   100%      646         0  100%   /dev
+localhost:/1TZl0cI3cXj8ko6m2XYg9c   731372416 731372416         0   100%        0         0  100%   /Volumes/MobileBackups
+map -hosts                                  0         0         0   100%        0         0  100%   /net
+map auto_home                               0         0         0   100%        0         0  100%   /home
+
+7.
+Danielles-MacBook-Pro:files daniellelarson$ grep -c -i "judge" *.txt
+const.txt:5
+scarlet.txt:15
+usdeclar.txt:2
+
+8.
+Danielles-MacBook-Pro:files daniellelarson$ grep -l "human" *.txt
+scarlet.txt
+usdeclar.txt
+
+
+9.
+Danielles-MacBook-Pro:files daniellelarson$ grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i -o | wc -l
+     125
+
+
+10.
+Danielles-MacBook-Pro:files daniellelarson$ head -n15 *.txt >> foo
+Danielles-MacBook-Pro:files daniellelarson$ cat foo
+==> const.txt <==
+Provided by USConstitution.net
+------------------------------
+
+[Note: Repealed text is not noted in this version.  Spelling errors have been
+corrected in this version.  For an uncorrected, annotated version of the
+Constitution, visit http://www.usconstitution.net/const.html ]
+
+We the People of the United States, in Order to form a more perfect Union,
+establish Justice, insure domestic Tranquility, provide for the common
+defence, promote the general Welfare, and secure the Blessings of Liberty to
+ourselves and our Posterity, do ordain and establish this Constitution for the
+United States of America.
+
+Article 1.
+
+
+==> scarlet.txt <==
+The Project Gutenberg EBook of The Scarlet Letter, by Nathaniel Hawthorne
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Scarlet Letter
+
+Author: Nathaniel Hawthorne
+
+Illustrator: Mary Hallock Foote
+             L. S. Ipsen
+
+
+==> usdeclar.txt <==
+                      Declaration of Independence
+
+                   [Adopted in Congress 4 July 1776]
+
+
+
+   The Unanimous Declaration of the Thirteen United States of America
+
+When, in the course of human events, it becomes necessary for one people to 
+dissolve the political bands which have connected them with another, and to 
+assume among the powers of the earth, the separate and equal station to 
+which the laws of nature and of nature's God entitle them, a decent respect 
+to the opinions of mankind requires that they should declare the causes 
+which impel them to the separation.
+
+Danielles-MacBook-Pro:files daniellelarson$ 
+
+11.
+Danielles-MacBook-Pro:files daniellelarson$ wc -l foo
+      50 foo
+
+12.
+It is more because “head -n15 *.txt >> foo” appends the three file names to foo and creates empty new lines, which will add to the total number of lines in foo.
+
+13.
+Danielles-MacBook-Pro:files daniellelarson$ rm foo
+Danielles-MacBook-Pro:files daniellelarson$ ls
+const.txt	scarlet.txt	usdeclar.txt
+
+14. 
+Danielles-MacBook-Pro:files daniellelarson$ history > cmds
