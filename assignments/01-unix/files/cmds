@@ -1,0 +1,500 @@
+  306  ./run.sh 
+  307  ls al
+  308  ls -al
+  309  chmod 777 run.sh
+  310  ./run.sh
+  311  ls
+  312  ls -al
+  313  sudo ./run.sh
+  314  touch txt
+  315  pico txt
+  316  ./txt
+  317  chmod 777 txt
+  318  ./txt
+  319  cd ..
+  320  chmod -R 777
+  321  chmod -R 777 kegg_analysis
+  322  cd kegg_analysis/
+  323  ./run.sh
+  324  ./run.sh
+  325  ls
+  326  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072223.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  327  ./run.sh
+  328  ls
+  329  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072223.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  330  ./run.sh
+  331  ls
+  332  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072273.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  333  ./run.sh
+  334  ls
+  335  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072280.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  336  ./run.sh
+  337  ls
+  338  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072280.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  339  ./run.sh
+  340  ls
+  341  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072288.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  342  ./run.sh
+  343  ls
+  344  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072391.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  345  ./run.sh 
+  346  ls
+  347  chmod 777 /Users/daniellelarson/Desktop/kegg_analysis/SRS072411.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts 
+  348  ./run.sh 
+  349  ls
+  350  more Srs013542.denovo_duplicates_marked.trimmed.1.fastq.kegg.counts
+  351  ls
+  352  more SRS072223.denovo.duplicates_marked.trimmed_1.fastq.kegg.counts
+  353  vi run.sh
+  354  vi run.sh
+  355  ./run.sh
+  356  vi run.sh
+  357  ./run,.sh
+  358  ./run,.sh
+  359  ./run.sh
+  360  ls
+  361  more SRS072223.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts.list
+  362  more SRS072288.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts.list
+  363  more SRS072411.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts.list
+  364  vi run.sh 
+  365  vi run.sh
+  366  ls
+  367  more SRS072411.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts.list
+  368  more SRS072411.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts.list
+  369  more SRS072288.denovo_duplicates_marked.trimmed_1.fastq.kegg.counts.list
+  370  ls
+  371  cd ~/Documents
+  372  cd ~/Documents/Undergrade_Classes/ABE487/Homework7&8
+  373  cd 
+  374  n
+  375  cd ~/Documents/Undergrade_Classes/ABE487\ /Homework7\&8/
+  376  ls
+  377  egrep “>” nucl.fa | wc -l
+  378  egrep “>” nucl.fa | wc -l
+  379   egrep “>” nucl.fa | wc -l
+  380   egrep “>” nucl.fa | wc -| run_type
+  381   egrep “>” nucl.fa | wc -l
+  382   egrep “>” nucl.fa | wc -|  Location/Qualifiers
+  383   egrep “>” nucl.fa | wc -|  nucl.fa
+  384   egrep “>” nucl.fa | wc -|  nucl.fa
+  385  ls
+  386   egrep “>” nucl.fa | wc -|  nucl.fa
+  387  ls
+  388  cd ~/Downloads
+  389  ls
+  390  egrep “>” nucl.fa | wc -l
+  391  egrep “>” nucl.fa | wc -| run
+  392  egrep “>” nucl 72223.fa | wc -l
+  393  egrep “>” nucl72223.fa | wc -l
+  394  cd ~/Documents/Undergrade_Classes/ABE487\ /Homework7&8/nucl72223.fa
+  395  ls
+  396  cd ~/Documents/Undergrade_Classes/ABE487\ /
+  397  ls
+  398  cd ~/Homework7&8
+  399  ls
+  400  cd ~/Documents/Undergrade_Classes/ABE487\ /Homework7/
+  401  ls
+  402  egrep “>” nucl72391.fa | wc -l
+  403  egrep “>” nucl72391.fa | wc -| no
+  404  egrep “>” nucl72391.fa | wc -l
+  405  ls
+  406  cd ~/Documents/Undergrade_Classes/ABE487\ /Homework7/nucl72223.fa 
+  407  ls
+  408  egrep “>” nucl.fa | wc -l
+  409  ls
+  410  egrep “>” nucl.fa | wc -l
+  411  egrep “>” nucl.fa | wc -l
+  412  cd ~/Documents/Undergrade_Classes/ABE487\ /Homework7/nucla.fa
+  413  cd ~/Documents/Undergrade_Classes/ABE487\ /Homework7
+  414  egrep “>” nucl.fa | wc -l
+  415  ls
+  416  egrep “>” nucl.fa | wc -l
+  417  more nucl.fa 
+  418  ls
+  419  egrep ">" nucl.fa | wc -l
+  420  egrep “>” nucl.fa | wc -l
+  421  egrep “>” nucl.fa | wc -l
+  422  egrep '>' nucl.fa | wc -l
+  423  egrep ">" nucl.fa | wc -l
+  424  cd ~/Downloads
+  425  egrep '>' nucl.fa | wc -l
+  426  ssh <dnlarson>@hpc.arizona.edu
+  427  ssh <dnlarson>@hpc.arizona.edu
+  428  end
+  429  w
+  430  ls
+  431  ssh<dnlarson>@hpc.arizona.edu
+  432  ssh hpc
+  433  cd ~/.ssh
+  434  ssh keygen
+  435  ssh<dnlarson>@hpc.arizona.edu
+  436  ssh<dnlarson>@hpc.arizona.edu
+  437  clear
+  438  ssh <dnlarson>@hpc.arizona.edu
+  439  ssh <dnlarson>@hpc.arizona.edu
+  440  w
+  441  echo "hello world"
+  442  cowsay hello
+  443  env
+  444  ssh dnlarson@hpc.arizona.edu
+  445  cd ~/.ssh
+  446  SSH
+  447  cat id_dsa.pub
+  448  cd
+  449  ls
+  450  ssh-dss AAAAB3NzaC1kc3MAAACBAL6FARjslixnszfdLTxqxJMtFI0N0XsqTl9J4Xnq16Bk2Sb7rylJDpJaWj2xVvJ6iy+/1PAyU2NzY28puCF6AlUWcZA
+  451  QLewfU/7kNsGawn18aVvWiM2vJAHBNoB/yiLMq3gzXAdN/xbMtg47bK8YPqQrKvDEtjj4fQqqP+AcE7FxAAAAFQDrnLHTm73gst/ey9/4IWOPB7tWDQAAAI
+  452  AQKqpB6o95AAPjvQfqiVZNyH9XgQvujLR1E0jdh7LF1v11/SeDn0A2nrf7bDsDFVIj1JOVYmovGG2KzPeu9e1D6hoxcoYiC2WBU8L7kydIJYM7lIzMDEWxj
+  453  5HLEVoG7P+zGiw5zX8PKaoUBof62WeLdfLWW0R5wPAqQ/QVwFqy/wAAAIBFtNgJpBA62D/PgxBczvXuZXVBrTkLIoZ9rUtKR1wLSpYbbkcUACcBSGz8QzKL
+  454  hRfGrNbIwdY1HNJlXwtpIxxdbQ4XljmcNURLkIPSl2qtOpvhca52rafUD9ZZVmOhiTqN27ne5NBPncNRD6AR+WF7LjUNaMJ1bYfihicj4qAixg== dnlars
+  455  on@login3
+  456  cd ~/.ssh
+  457  wc -c
+  458  hostname
+  459  ls
+  460  git clone git@github.com:dnlarson/biosys-analytics.git
+  461  ssh-keygen
+  462  pbcopy < ~/.ssh/id_rsa.pub 
+  463  git clone git@github.com:dnlarson/biosys-analytics.git
+  464  cd biosys-analytics/
+  465  ls
+  466  cd lectures/02-unix/
+  467  open 02-unix.pdf 
+  468  pwd
+  469  cd ../../ass
+  470  git remote add upstream https://github.com/hurwitzlab/biosys-analytics.git
+  471  git pull upstream mastdr
+  472  git pull upstream master
+  473  cd ../
+  474  pwd
+  475  cd ../assignments/01-unix/
+  476  ls
+  477  less README.md 
+  478  open README.md 
+  479  cd ~/.ssh
+  480  man wc
+  481  man wc
+  482  man find
+  483  man find
+  484  git pull upstream master
+  485  cd ~/.ssh
+  486  id_dsa.pub
+  487  ls -a
+  488  ls
+  489  cd
+  490  pwd
+  491  ls
+  492  cd biosys-analytics/
+  493  git config -l
+  494  git pull upstream master
+  495  git push 
+  496  cd assignments/01-unix
+  497  ls
+  498  less README.md 
+  499  open README.md 
+  500  ls
+  501  mkdir files
+  502  cd
+  503  cd /Users/daniellelarson/biosys-analytics/assignments/01-unix/files 
+  504  touch answers.txt
+  505  open .
+  506  cd ..
+  507  ls
+  508  cd ..
+  509  ls
+  510  cd 01-unix
+  511  ls
+  512  cd files/
+  513  ls
+  514  cd ..
+  515  ls
+  516  cd files/
+  517  ls
+  518  cd ..
+  519  ls
+  520  cd files/
+  521  ls
+  522  clear
+  523  open answers.txt 
+  524  pwd
+  525  open ..
+  526  ls >> answers.txt 
+  527  cat answers.txt 
+  528  rm answers.txt 
+  529  ls
+  530  clear
+  531  'test' > answers.txt
+  532  ls
+  533  cat answers.txt 
+  534  ls
+  535  ls >> answers.txt 
+  536  cat answers.txt 
+  537  clear
+  538  rm answers.txt 
+  539  l;s
+  540  la
+  541  ls
+  542  clear
+  543  touch answers.txt
+  544  ls
+  545  clear
+  546  open answers.txt 
+  547  ls
+  548  ls -l
+  549  pico answers.txt 
+  550  open answers.txt 
+  551  man ls
+  552  ls -al
+  553  ls -l
+  554  ls -l
+  555  pwd
+  556  find -size +50K
+  557  find . -size +50k
+  558  ls -l
+  559  open .
+  560  open .
+  561  find . -size +50k
+  562  open answers.txt 
+  563  open answers.txt 
+  564  file answers.txt 
+  565  printenv
+  566  md5sum
+  567  cp answers.txt ../
+  568  ls
+  569  cd ..
+  570  ls
+  571  cat answers.txt 
+  572  diff answers.txt files/answers.txt 
+  573  clear
+  574  cd files/
+  575  rm answers.txt 
+  576  ls -al
+  577  md5 *.txt
+  578  df
+  579  man df
+  580  df BLOCKSIZE K
+  581  man df
+  582  man df
+  583  df -k
+  584  man df
+  585  df -k
+  586  df -k
+  587  man wc
+  588  man wc
+  589  wc judge -w
+  590  man wc
+  591  wc 'judge' -w *
+  592  wc *.txt -w 'judge'
+  593  wc *.txt -w
+  594  wc -w *.txt
+  595  wc -w 'judge' *.txt
+  596  ls
+  597  diff answers.txt ../answers.txt 
+  598  claer
+  599  clear
+  600  cat answers.txt 
+  601  cat ../answers.txt 
+  602  rm ../answers.txt 
+  603  mv ./answers.txt ../
+  604  clear
+  605  ls
+  606  ls ..
+  607  clear
+  608  open ../answers.txt 
+  609  wc -w 'judge' *.txt
+  610  man grep
+  611  grep -c "judge" *.txt
+  612  man grep
+  613  grep "judge" .txt
+  614  grep -c "judge" *.txt
+  615  cat const.txt 
+  616  touch script.py
+  617  clear
+  618  s
+  619  ls
+  620  open script.py 
+  621  python sc
+  622  python script.py 
+  623  grep -c "judge" *.txt
+  624  python script.py 
+  625  python script.py 
+  626  rm script.py 
+  627  clear
+  628  ls
+  629  clear
+  630  ls
+  631  grep -c "judge" *.txt
+  632  man grep
+  633  grep -l "judge"
+  634  grep -l "judge" *.txt
+  635  grep -l "human" *.txt
+  636  ls
+  637  ls
+  638  cd ..
+  639  ls
+  640  open answers.txt 
+  641  ls
+  642  cat answers.txt 
+  643  ls files/
+  644  cat files/answers.txt 
+  645  ls
+  646  rm answers.txt 
+  647  ls
+  648  ls
+  649  clear
+  650  ls
+  651  cd files/
+  652  ls
+  653  cat answers.txt 
+  654  mv answers.txt ../
+  655  clear
+  656  ls
+  657  cd ..
+  658  ls
+  659  open answers.txt 
+  660  ls
+  661  cd files/
+  662  ls
+  663  clear
+  664  ls
+  665  man wc
+  666  man grep
+  667  grep -c -i "judge" *.txt
+  668  man wc
+  669  wc "scarlet" -w -i scarlet.txt
+  670  wc scarlet.txt -w -i "scarlet"
+  671  wc scarlet.txt "scarlet" -iw
+  672  wc -i -w "scarlet" scarlet.txt
+  673  wc -w "scarlet" scarlet.txt
+  674  wc --words scarlet.txt
+  675  wc --w scarlet.txt
+  676  wc -w scarlet.txt
+  677  man grep
+  678  grep -c "scarlet" scarlet.txt 
+  679  grep -ic "scarlet" scarlet.txt 
+  680  grep -ic "scarlet" scarlet.txt | wc -w
+  681  grep -o -w 'scarlet' scarlet.txt | wc -w
+  682  grep -o -w -i 'scarlet' scarlet.txt | wc -w
+  683  ls
+  684  grep -o -w -i 'scarlet' scarlet.txt | wc -w
+  685  grep -o -w -i 'scarlet' scarlet.txt | wc -w
+  686  grep -w -i 'scarlet' scarlet.txt | wc -w
+  687  ls
+  688  touch script.py
+  689  ls
+  690  open script.py 
+  691  python script.py 
+  692  python script.py 
+  693  python script.py 
+  694  python script.py 
+  695  python script.py 
+  696  grep -w -i 'scarlet' scarlet.txt | wc -w
+  697  grep -w -i -o 'scarlet' scarlet.txt | wc -w
+  698  grep -w -i -O 'scarlet' scarlet.txt | wc -w
+  699  man grep
+  700  grep -w -i 'scarlet' scarlet.txt 
+  701  grep -w -i 'scarlet' scarlet.txt | wc -w 'scarlet'
+  702  grep -w -i 'scarlet' scarlet.txt | wc -w 'scarlet'
+  703  grep -w -i 'scarlet' scarlet.txt | wc 'scarlet' -w
+  704  grep -w -i 'scarlet' scarlet.txt | grep -c 'scarlet'
+  705  grep -w -i 'scarlet' scarlet.txt | grep -c -i 'scarlet'
+  706  grep -w -i 'scarlet' scarlet.txt
+  707  grep -w -i 'scarlet' scarlet.txt | grep -c -i 'scarlet'
+  708  python script.py 
+  709  echo "foo foo"
+  710  echo "foo foo" | grep -o "foo"
+  711  echo "foo foo" | grep -o "foo" | wc -1
+  712  echo "foo foo" | grep -o "foo" | wc -w
+  713  grep -w -i 'scarlet' scarlet.txt | grep -c -i 'scarlet'
+  714  python script.py 
+  715  grep -w -i 'scarlet' scarlet.txt | grep -c -i 'scarlet'
+  716  grep -w -i 'scarlet' scarlet.txt | grep -c 'scarlet'
+  717  grep -w -i 'scarlet' scarlet.txt | grep -c -i 'scarlet'
+  718  man grep
+  719  grep -i -w 'scarlet' scarlet.txt 
+  720  grep -i -w 'scarlet' scarlet.txt | grep -i 'scarlet' | wc -w
+  721  grep -i -w 'scarlet' scarlet.txt | grep 'scarlet' | wc -w
+  722  grep -w -i 'scarlet' scarlet.txt | grep -c -i 'scarlet'
+  723  man grep
+  724  grep "scarlet" scarlet.txt 
+  725  grep "scarlet" scarlet.txt | wc -w
+  726  man grep
+  727  grep 'scarlet' scarlet.txt 
+  728  grep 'scarlet' scarlet.txt | wc -w
+  729  man grep
+  730  grep -w "scarelt" scarlet.txt 
+  731  grep -w "scarelt" scarlet.txt | wc -w
+  732  grep -w "scarlet"" scarlet.txt | wc -w
+  733  grep -w "scarlet" scarlet.txt | wc -w
+  734  grep -w -i "scarlet" scarlet.txt | wc -w
+  735  grep -w -i "scarlet" scarlet.txt
+  736  python script.py 
+  737  python script.py 
+  738  python script.py 
+  739  grep -w -i "scarlet" scarlet.txt
+  740  grep -w -i "scarlet" scarlet.txt | grep "scarlet"
+  741  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -o
+  742  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -o -l
+  743  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -o -i
+  744  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -o -i | wc -w
+  745  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -o -i | wc -l
+  746  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i -o | wc -l
+  747  grep -w -i "scarlet" scarlet.txt
+  748  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i -o
+  749  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i
+  750  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i -o
+  751  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i -o | wc -l
+  752  wc -touch .gitignore
+  753  touch .gitignore
+  754  pico .gitignore 
+  755  claer
+  756  clear
+  757  git status
+  758  rm .gitignore 
+  759  rm sc
+  760  rm script.py 
+  761  ls
+  762  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i -o | wc -l
+  763  man wc
+  764  wc -w -i "scarlet" scarlet.txt 
+  765  wc -i -w "scarlet" scarlet.txt 
+  766  wc "scarlet" -w -i scarlet.txt 
+  767  grep -w -i "scarlet" scarlet.txt | grep "scarlet" -i -o | wc -l
+  768  man grep
+  769  man gre 
+  770  man grep
+  771  man head
+  772  head -n15 >> foo
+  773  head -n15 *.txt >> foo
+  774  cat foo
+  775  cat foo
+  776  head -n15 *.txt >> foo
+  777  cat foo
+  778  head -n15 *.txt >> foo
+  779  rm foo
+  780  head -n15 *.txt >> foo
+  781  cat foo
+  782  man wc
+  783  wc -l foo
+  784  echo foo | ec -l
+  785  echo foo | wc -l
+  786  echo foo
+  787  wc -l foo
+  788  man wc
+  789  cl
+  790  wc -l foo
+  791  rm foo
+  792  cat foo
+  793  ls
+  794  rm foo
+  795  touch foo
+  796  rm foo
+  797  ls
+  798  history > cmds
+  799  cat cmds
+  800  mv cmds cmds.txt
+  801  open cmds.txt
+  802  clear
+  803  ls
+  804  rm cmds.txt 
+  805  history > cmds
