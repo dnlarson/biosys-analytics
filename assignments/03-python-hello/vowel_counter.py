@@ -9,7 +9,7 @@ def main():
 
 vowels = sys.argv
 
-if len(vowels) != 2:
+if len(vowels) < 2:
     script = os.path.basename(vowels[0])
     print('Usage: {} STRING'.format(script))
     sys.exit(1)
