@@ -40,7 +40,7 @@ def main():
             print('{} bottles of beer on the wall,\n'
                   '{} bottles of beer,\n'
                   'Take one down, pass it around,\n'
-                  '{} bottles of beer on the wall!\n'.format(num_bottles, num_bottles, num_bottles))
+                  '{} bottles of beer on the wall!\n'.format(num_bottles, num_bottles, num_bottles -1 ))
             # print(num_bottles)
         elif num_bottles == 2:
             print('{} bottles of beer on the wall,\n'
@@ -55,7 +55,6 @@ def main():
                   '{} bottles of beer on the wall!'.format(num_bottles, num_bottles, num_bottles - 1)) 
             # print(num_bottles)
         
-
 
 # --------------------------------------------------
 def warn(msg):
