@@ -21,10 +21,6 @@ def main():
     p1, p2 = args
 
 
-
-    print(p1)
-    print(p2)
-
     if p1 == p2:
         print('ok')
     elif p1.capitalize() == p2:
@@ -35,8 +31,6 @@ def main():
         print('ok')
     else:
         print('nah')
-
-    
 
 
 
