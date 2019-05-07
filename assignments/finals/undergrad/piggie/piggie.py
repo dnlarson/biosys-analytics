@@ -51,47 +51,7 @@ def main():
             else:
                 print(new_word + '-yay', end=' ')
         print()
-
-
-
-    #             for lines in f:
-    #                 for word in lines.split():
-    #                     new_word = re.sub("[^a-zA-Z0-9']", '', word)
-    #                     consonants = re.sub('[aeiouAEIOU]', '', string.ascii_letters)
-    #                     match = re.match('^([' + consonants + ']+)(.+)', new_word)
-    #                     if match:
-    #                         print('-'.join([match.group(2), match.group(1) + 'ay']))
-    #                     else:
-    #                         print(word + '-ay')
-    #     else:
-    #         continue
-            
-    # for word in STR:
-    #     new_word = re.sub("[^a-zA-Z0-9']", '', word)
-    #     consonants = re.sub('[aeiouAEIOU]', '', string.ascii_letters)
-    #     match = re.match('^([' + consonants + ']+)(.+)', new_word)
-    #     if match:
-    #         print('-'.join([match.group(2), match.group(1) + 'ay']))
-    #     else:
-    #         print(word + '-ay')
-
     
-    #2nd CASE (Read from a FILE)
-
-    # if not os.path.isfile(FILE):
-    #     die('"{}" is not a file'.format(FILE))
-
-    # with open(FILE, "r") as f:
-    #     for lines in f:
-    #         for word in lines.split():
-    #             consonants = re.sub('[aeiouAEIOU]', '', string.ascii_letters)
-    #             match = re.match('^([' + consonants + ']+)(.+)', word)
-    #             if match:
-    #                 print('-'.join([match.group(2), match.group(1) + 'ay']))
-    #             else:
-    #                 print(word + '-ay')
-
-
 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
